@@ -3,12 +3,12 @@
 > Official digital identity of Mohammed Ashfaq, Student & AI Enthusiast.
 
 ## Sections
-- Home: https://mohammedashfaq.dev/#home
-- About: https://mohammedashfaq.dev/#about
-- Projects: https://mohammedashfaq.dev/#projects (Featured: Oops! I'm an Astronaut)
-- Experience: https://mohammedashfaq.dev/#experience (NASA Space Apps Challenge 2026, Ideal High School Media Partner)
-- Achievements: https://mohammedashfaq.dev/#achievements (Galactic Problem Solver Recognition)
-- Contact: https://mohammedashfaq.dev/#contact
+- Home: https://mohammed-ashfaq.vercel.app/#home
+- About: https://mohammed-ashfaq.vercel.app/#about
+- Projects: https://mohammed-ashfaq.vercel.app/#projects (Featured: Oops! I'm an Astronaut)
+- Experience: https://mohammed-ashfaq.vercel.app/#experience (NASA Space Apps Challenge 2026, Ideal High School Media Partner)
+- Achievements: https://mohammed-ashfaq.vercel.app/#achievements (Galactic Problem Solver Recognition)
+- Contact: https://mohammed-ashfaq.vercel.app/#contact
 
 ## Official Links
 - Instagram: https://www.instagram.com/mohammed.ashfaq.2011/

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mohammedashfaq.dev/sitemap.xml
+Sitemap: https://mohammed-ashfaq.vercel.app/sitemap.xml
