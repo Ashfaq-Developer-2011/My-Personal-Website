@@ -1,0 +1,17 @@
+# Mohammed Ashfaq — Official Personal Website
+
+> Official digital identity of Mohammed Ashfaq, Student & AI Enthusiast.
+
+## Sections
+- Home: https://mohammedashfaq.dev/#home
+- About: https://mohammedashfaq.dev/#about
+- Projects: https://mohammedashfaq.dev/#projects (Featured: Oops! I'm an Astronaut)
+- Experience: https://mohammedashfaq.dev/#experience (NASA Space Apps Challenge 2026, Ideal High School Media Partner)
+- Achievements: https://mohammedashfaq.dev/#achievements (Galactic Problem Solver Recognition)
+- Contact: https://mohammedashfaq.dev/#contact
+
+## Official Links
+- Instagram: https://www.instagram.com/mohammed.ashfaq.2011/
+- Featured Project (Oops! I'm an Astronaut): https://oops-im-an-astronaut.vercel.app/
+- NASA Space Apps Challenge: https://www.spaceappschallenge.org/
+- Ideal High School: https://idealhighschool.org/
